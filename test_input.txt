@@ -1,0 +1,3 @@
+CREATE fruit
+CREATE fruit/apple
+DELETE fruit/apple

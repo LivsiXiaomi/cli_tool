@@ -1,3 +1,5 @@
 # Tests
 pytest==6.2.5
 pytest-mock==3.6.1
+# Linters
+flake8==4.0.1

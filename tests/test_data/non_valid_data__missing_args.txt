@@ -1,0 +1,9 @@
+CREATE fruits
+CREATE vegetables
+CREATE fruits/apples
+CREATE
+LIST fruits
+CREATE foods
+MOVE fruits foods
+DELETE fruits/apples vegetables
+LIST

@@ -1,7 +1,6 @@
 CREATE fruits
-CREATE
+MKDIR fruits
 LIST fruits
-MOVE grains/squash
 CREATE foods
-DELETE fruits/apples vegetables
+COPY fruits foods
 LIST

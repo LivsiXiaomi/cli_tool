@@ -1,0 +1,6 @@
+CREATE fruits
+MKDIR fruits
+LIST fruits
+CREATE foods
+COPY fruits foods
+LIST
